@@ -1,6 +1,6 @@
 {
   "name": "angle-to-direction",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "This package can convert angle to direction",
   "main": "angleToDirection.js",
   "scripts": {
@@ -13,12 +13,12 @@
     "url": "git+https://github.com/vanshady/angle-to-direction.git"
   },
   "keywords": [
-      "angle",
-      "degree",
-      "radian",
-      "direction",
-      "direction converter",
-      "to direction"
+    "angle",
+    "degree",
+    "radian",
+    "direction",
+    "direction converter",
+    "to direction"
   ],
   "license": "MIT"
 }
