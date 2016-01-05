@@ -12,5 +12,13 @@
     "type": "git",
     "url": "git+https://github.com/vanshady/angle-to-direction.git"
   },
+  "keywords": [
+      "angle",
+      "degree",
+      "radian",
+      "direction",
+      "direction converter",
+      "to direction"
+  ]
   "license": "MIT"
 }
