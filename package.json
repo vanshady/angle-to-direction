@@ -14,9 +14,13 @@
   },
   "keywords": [
     "angle",
+    "angle to direction",
     "degree",
+    "degree to direction",
     "direction",
     "direction converter",
+    "radian",
+    "radiation to direction",
     "to direction"
   ],
   "license": "MIT"
