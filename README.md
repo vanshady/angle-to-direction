@@ -1,6 +1,6 @@
 # Installation
 ```
-npm install angle-to-direction
+npm install angle-to-direction -S
 ```
 
 # Usage
