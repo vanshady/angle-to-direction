@@ -1,6 +1,6 @@
 {
   "name": "angle-to-direction",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "This package can convert angle to direction",
   "main": "angleToDirection.js",
   "scripts": {
